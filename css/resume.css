@@ -4,6 +4,10 @@ body {
   color: #868e96;
 }
 
+.admin-login {
+  color: #343a40;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
