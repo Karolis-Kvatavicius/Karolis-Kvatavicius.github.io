@@ -4,10 +4,6 @@ body {
   color: #868e96;
 }
 
-span .admin-login {
-  color: indigo !important;
-}
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -187,4 +183,8 @@ a {
 
 a:hover, a:focus, a:active {
   color: indigo;
+}
+
+.admin-login {
+  color: indigo !important;
 }
