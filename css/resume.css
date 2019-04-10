@@ -4,8 +4,8 @@ body {
   color: #868e96;
 }
 
-.admin-login {
-  color: #343a40;
+span .admin-login {
+  color: indigo;
 }
 
 @media (min-width: 992px) {
