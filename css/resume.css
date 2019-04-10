@@ -4,6 +4,10 @@ body {
   color: #868e96;
 }
 
+body #interests p .admin-login {
+  color: indigo !important;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -183,8 +187,4 @@ a {
 
 a:hover, a:focus, a:active {
   color: indigo;
-}
-
-body #interests p span .admin-login {
-  color: indigo !important;
 }
