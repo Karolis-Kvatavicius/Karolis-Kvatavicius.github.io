@@ -185,6 +185,6 @@ a:hover, a:focus, a:active {
   color: indigo;
 }
 
-.admin-login {
+body #interests p span .admin-login {
   color: indigo !important;
 }
