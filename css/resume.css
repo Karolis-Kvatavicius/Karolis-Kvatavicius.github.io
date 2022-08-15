@@ -73,8 +73,12 @@ p.lead {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover, .fa-hiking, .fa-dumbbell, .fa-graduation-cap, .fa-code {
+.dev-icons .list-inline-item i:hover, .fa-hiking, .fa-dumbbell, .fa-graduation-cap, .fa-code, .fa-briefcase {
   color: indigo;
+}
+
+.project_separator {
+  border: solid 0.5px rgba(75, 0, 130, 0.4);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -184,3 +188,7 @@ a {
 a:hover, a:focus, a:active {
   color: indigo;
 }
+
+/* .lala {
+  z-index: 2000;
+} */
